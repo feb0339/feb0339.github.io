@@ -6,6 +6,6 @@
 {{ page.title }}
 
 ## Hello Amelie~
-#### ---- from little ken
+ ---- from little ken
 
 {{ page.date | date_to_string }}
