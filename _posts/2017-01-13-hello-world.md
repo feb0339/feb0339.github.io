@@ -9,4 +9,4 @@ title: hello world
 
 <p>{{ page.date | date_to_string }}</p>
 
-<embed src="http://www.xiami.com/widget/0_3515679/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+<embed src="//music.163.com/style/swf/widget.swf?sid=22822506&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
